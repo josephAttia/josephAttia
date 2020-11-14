@@ -1,5 +1,8 @@
 ### Hi there it's Joseph 👋
 
+<p align="middle">
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=r1&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+</p>
 
 Currently a Computer Science student in High School 📖💻
 
