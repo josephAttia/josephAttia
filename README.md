@@ -2,20 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=josephAttia&label=Profile Views&color=blue&style=flat" alt="Mayank0255" />
 <p align="left">
   
-  <a href="https://github.com/Mayank0255" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://twitter.com/Mayank0255" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/mayank-aggarwal-14301b168/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://medium.com/@mynkggrwl" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
-
-
-## 🎓 I'm a BTech IT Student at Manipal University Jaipur
+## 🎓 I'm a High School Student
 - 🔭 I’m currently practicing questions on LeetCode
-- 🌱 I’m currently learning Data mining & Flutter
 - 👯 I’m open to opportunities for Spring 2021, and Summer 2021
 - 💬 Ask me about Node.js / Python / MySQL / React.js / Tableau
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
 
 
 [//]: <> (🔧 Technologies & Tools)
@@ -37,10 +27,10 @@
 
 ## 🏆 My GitHub Stats
 
-[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/josephAttia/josephAttia/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/josephAttia/josephAttia/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/josephAttia/josephAttia/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/josephAttia/josephAttia/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ## :zap: Recent Activity
